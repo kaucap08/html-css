@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body {
+    background-image: linear-gradient(to right, orange, red);
+}
+
+.imagem1 {
+    height: 200px;
+}
